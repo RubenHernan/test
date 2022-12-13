@@ -10,6 +10,23 @@
     display: inline-block;
 }
 
-.content p {
-  position: absolute;
+.firstcontent p{
+  color: white;
+  font-weight: 100em;
+  font-size: 40px;
+  position: relative;
+  top: -150px;
+  left: 100px;
+}
+
+.contentMiddle {
+  margin-top: 20px;
+}
+
+.fotoPerros{
+  margin-top: 20px;
+}
+.perro img {
+  width: 200px;
+  height: 200px;
 }
